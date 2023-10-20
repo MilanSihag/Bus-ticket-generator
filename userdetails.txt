@@ -1,0 +1,5 @@
+************Ticket**************
+Name: milan
+Age: 21
+Phone Number: 9079
+Seat Number: 12

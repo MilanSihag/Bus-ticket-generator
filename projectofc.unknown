@@ -1,0 +1,23 @@
+developer team : Aayush mishra (module handling , main file,)
+
+
+
+/**
+ * proprocessor -> compiler -> assembler -> linker
+ *  file.i          file.s      file.o      file.exe
+ * 
+ * -E flag generates proprocessed file with extension ".i", for example main.i
+ * -S flag generates assembly code with extension ".s", for example main.s
+ * -c flag generates object files with extension ".o", for example main.o
+ * 
+ * to cancel execution of a binary hit "ctrl + c"
+ * 
+ * To run this project run these commands in terminal.
+ * step1: gcc -c .\main.c .\test.h              (main.o)
+ * step2: gcc -c .\test.c                       (test.o)
+ * step3: gcc main.o test.o -o ticketbooking    (ticketbooking.exe)
+ * step4: .\ticketbooking.exe                   (run)
+ 
+
+ 
+ */
